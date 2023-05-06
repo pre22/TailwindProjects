@@ -553,6 +553,11 @@ video {
   padding-bottom: 1rem;
 }
 
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
 .text-bookmark-purple {
   --tw-text-opacity: 1;
   color: rgb(82 103 223 / var(--tw-text-opacity));
